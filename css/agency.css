@@ -100,9 +100,9 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn-xl {
-  color: #fed136;
-  background-color: white;
-  border-color: white;
+  color: white;
+  background-color: #fed136;;
+  border-color: #fed136;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -303,7 +303,7 @@ section h3.section-subheading {
   text-transform: none;
 }
 #portfolio .portfolio-item {
-  margin: 0 0 15px;
+  margin: 0 0 25px;
   right: 0;
 }
 #portfolio .portfolio-item .portfolio-link {
